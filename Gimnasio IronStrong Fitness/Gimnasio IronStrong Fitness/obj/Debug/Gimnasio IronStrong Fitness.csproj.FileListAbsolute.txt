@@ -1,0 +1,14 @@
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\bin\Debug\Gimnasio IronStrong Fitness.exe.config
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\bin\Debug\Gimnasio IronStrong Fitness.exe
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\bin\Debug\Gimnasio IronStrong Fitness.pdb
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.csproj.AssemblyReference.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.csproj.SuggestedBindingRedirects.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio_IronStrong_Fitness.frm_Login.resources
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio_IronStrong_Fitness.Properties.Resources.resources
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.csproj.GenerateResource.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.csproj.CoreCompileInputs.cache
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.exe
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.pdb
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio_IronStrong_Fitness.frmMenuPrincipal.resources
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\bin\Debug\FontAwesome.Sharp.dll
+E:\FNI\Semestre I-2023\SIS 2420 ACTUALIZACION TECNOLOGIA\Proyecto\Proyecto Visual\Gimnasio IronStrong Fitness\Gimnasio IronStrong Fitness\obj\Debug\Gimnasio IronStrong Fitness.csproj.CopyComplete
